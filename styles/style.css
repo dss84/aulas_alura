@@ -169,4 +169,9 @@ body {
     .footer {
         margin-top: 35px;
     }
+
+    .logo_img_link {
+        width: 30px;
+        height: 30px;
+    }
 }
